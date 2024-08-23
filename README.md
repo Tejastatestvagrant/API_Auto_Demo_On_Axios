@@ -1,6 +1,4 @@
-Here's the complete `README.md` file for your project that you can copy and paste directly into GitHub:
 
-```markdown
 # API Automation with Axios
 
 ## Overview
@@ -98,6 +96,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or issues, please contact:
 
 - **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-```
 
 Feel free to modify any details such as your GitHub repository URL or contact information as needed.
